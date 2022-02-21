@@ -1,4 +1,4 @@
-import CharacterSheet from "./sheet/CharacterSheet";
+import CharacterSheet from "./sheet/CharacterSheet"
 
 function App() {
   return (

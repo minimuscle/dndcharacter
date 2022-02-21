@@ -1,0 +1,25 @@
+.app {
+  margin: 0 20px;
+}
+
+.app h1 {
+  text-align: center;
+}
+
+label {
+  display: inline-block;
+  width: 150px;
+  margin: 10px 5px;
+}
+
+input,
+select,
+option {
+  border: 1px solid #aaaaaa;
+  border-radius: 8px;
+  padding: 10px 5px;
+}
+
+select {
+  width: 180px;
+}
