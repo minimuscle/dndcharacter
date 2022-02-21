@@ -1,5 +1,6 @@
 # DND Character Creator
-![VERSION: 0.0.1 (shields.io)](https://img.shields.io/badge/Version-0.0.1-blue?style=for-the-badge&logo=appveyor)
+![VERSION: 0.0.1 (shields.io)](https://img.shields.io/badge/Version-0.0.1-blue?style=for-the-badge)
+![CHARACTER: 0 (shields.io)](https://img.shields.io/badge/Characters-0-brightgreen?style=for-the-badge)
 <a href="https://www.buymeacoffee.com/dumblydorr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=dumblydorr&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 Welcome to the open source DnD Online Character Creator. I created this character creator because I really liked the D&D Beyond design, but not the closed nature of most of the races. The other creators either lacked features or were just character sheets. 
